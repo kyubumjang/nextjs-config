@@ -1,7 +1,7 @@
-## Ambition
+## nextjs-config
 
-- 수많은 생각들을 혼자 정리해보는 웹 사이트
+- Next.js 환경 구성
 
 ### 개발환경
 
-- nextJS, TypeScript, Emotion, Redux
+- nextJS, TypeScript, ESLint, Prettier, Emotion, Husky, lint-staged 환경 구성
